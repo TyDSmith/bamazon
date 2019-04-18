@@ -1,11 +1,12 @@
 # bamazon
 UC-Riverside Bootcamp Homework Assignment #12
 
-## Required Packages
+### Required Packages
 `npm install mysql`
 
 `npm install mysql`
 
-Gif:
+Gif of search all (to do this run node bamazonCustomer.js):
 
-![Alt Text](/assets/first-step-recording-all.gif)
+
+![Show all results gif](/assets/ezgif.com-gif-maker.gif)
