@@ -11,4 +11,4 @@ UC-Riverside Bootcamp Homework Assignment #12
 Gif of search all (to do this run node bamazonCustomer.js):
 
 
-![Show all results gif](/assets/ezgif.com-gif-maker.gif)
+![Sample Gif](/assets/gifexample1.gif)
